@@ -4,7 +4,7 @@ chooseInstallationOptions:
   de: Installationsoption wählen
   ru: Выберите опции установки
   sk: Vyberte možnosti inštalácie
-  fr: Choisis les options d'installation
+  fr: Choisis les options d'installation YK test
   hu_HU: Telepítési opciók kiválasztása
   pt_BR: Escolha uma opção de instalação
   zh_CN: 安装选项
@@ -23,7 +23,7 @@ chooseUninstallationOptions:
   de: Deinstallationsoption wählen
   ru: Выберите опции удаления
   sk: Vyberte možnosti odinštalovania
-  fr: Choisis les options de désinstallation
+  fr: Choisis les options de désinstallation KHILAJI
   hu_HU: Eltávolítási opciók kiválasztása
   pt_BR: Escolha uma opção de desinstalação
   zh_CN: 卸载选项
